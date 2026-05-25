@@ -1,4 +1,4 @@
-<div dir="rtl">
+<div style="font-family: Vazirmatn, Segoe UI, Arial, sans-serif;" dir="rtl">
 # ArchFlow
 
 ## بازاندیشی فرآیند طراحی معماری در یک محیط فضایی مبتنی بر قلم
